@@ -1,3 +1,5 @@
+## I did not create this, I simply modified it to be a bit better for what I wanted. This is the original README file. Some things will not be true because it is not my program and this is just the original README.
+
 I AM NOT GOING TO UPDATE THIS PROJECT ANYMORE. IT HAS BEEN DISCONTINUED. DO EXPECT BUGS, GLITCHES, ETC.
 
 Roblox Account Generator
