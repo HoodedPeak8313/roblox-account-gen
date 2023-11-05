@@ -11,7 +11,3 @@ Before you start generating accounts make sure you have:
 If you liked my generator then make sure to leave a star :)
 
 Also if you have any errors then contact me on Discord: Imagine#5120
-
-You can also open an issue on my repository if you want.
-
-The repository link you download my gen from (if you don't have it): 
